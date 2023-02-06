@@ -89,7 +89,7 @@ nest-asyncio==1.5.1
 nltk==3.6.2
 notebook==6.4.0
 numpy==1.19.5
-oauthlib==3.1.1
+oauthlib==3.2.2
 opencv-python==4.5.2.54
 opt-einsum==3.3.0
 packaging==20.9
