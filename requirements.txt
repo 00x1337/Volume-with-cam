@@ -54,7 +54,7 @@ instabot-py==0.7.18
 instaloader==4.2.8
 instapy==0.6.13
 ipykernel==5.5.5
-ipython==7.24.1
+ipython==8.10.0
 ipython-genutils==0.2.0
 itsdangerous==2.0.1
 jedi==0.18.0
